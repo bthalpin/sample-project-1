@@ -1,1 +1,6 @@
-# sample-project-1
+# Sample Project 1
+
+This is a blank project to be used as a placeholder for my portfolio site.
+
+## Link
+You can view the website [here](https://bthalpin.github.io/sample-project-1/)
